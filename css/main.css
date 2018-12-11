@@ -98,12 +98,58 @@ textarea {
    ========================================================================== */
 
 
+img{
+    width: 100%;
+    max-width: 100%;
+    margin: 1rem;
+}
+
+body{
+    font-family: 'Titillium Web', sans-serif;
+    background-color: teal;
+    color:white;
+
+}
+
+p{
+    text-align: justify;
+}
 
 
 
+h3{
+    padding: 1rem;
+}
+
+button{
+    margin: 1rem;
+}
+
+.c1{
+    background-color: blue;
+    border-color: blue;
+}
 
 
+.c2{
+    background-color: red;
+    border-color: red;
+}
 
+.c3{
+    background-color: orange;
+    border-color: orange;
+}
+
+.c4{
+    background-color: pink;
+    border-color: pink;
+}
+
+.c5{
+    background-color: #ff00ff;
+    border-color: #ff00ff;
+}
 
 
 
