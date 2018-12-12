@@ -11,7 +11,7 @@
    ========================================================================== */
 
 html {
-    color: #222;
+    color: white;
     font-size: 1em;
     line-height: 1.4;
 }
@@ -106,8 +106,8 @@ img{
 
 body{
     font-family: 'Titillium Web', sans-serif;
-    background-color: teal;
-    color:white;
+    background-color: black;
+    color:black;
 
 }
 
