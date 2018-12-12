@@ -125,6 +125,10 @@ h3{
 
 button{
     margin: 1rem;
+    font-family: 'Rambla', sans-serif;
+    background-color: black;
+    color:white;
+    margin-color:white;
 }
 
 
