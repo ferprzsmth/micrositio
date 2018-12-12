@@ -109,10 +109,12 @@ body{
     background-color: white;
     color:black;
 
+
 }
 
 p{
     text-align: justify;
+    font-family: 'Rambla', sans-serif;
 }
 
 
