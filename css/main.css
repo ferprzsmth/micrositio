@@ -130,6 +130,12 @@ h3{
     color:black;
     margin-color:white;
 }
+.btn:hover{
+    background-color: white;
+    margin: 1rem;
+    border-color:white;
+
+}
 
 
 
