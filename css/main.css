@@ -113,6 +113,7 @@ body{
 }
 
 p{
+    padding: 2rem;
     text-align: justify;
     font-family: 'Rambla', sans-serif;
 }
@@ -135,7 +136,7 @@ h4{
  dd{
     padding:1rem;
     font-family:'Rambla', sans-serif;
-    text-align: center;
+    text-align: justify;
  }
  div {
 align-content: center;
