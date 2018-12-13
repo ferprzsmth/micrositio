@@ -135,6 +135,7 @@ h4{
  dd{
     padding:1rem;
     font-family:'Rambla', sans-serif;
+    text-align: center;
  }
  div {
 align-content: center;
@@ -149,7 +150,7 @@ align-content: center;
 .btn:hover {
     background-color: gray;
     margin: 1rem;
-    border-color:white;
+    border-color:gray;
 
 }
 
