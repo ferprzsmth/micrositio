@@ -122,7 +122,19 @@ p{
 h3{
     padding: 1rem;
 }
+h4{
+    padding:1rem;
+    font-family:'Martel Sans', sans-serif;
+}
+ dt{
+    padding: 1rem;
+    font-family: 'Martel Sans', sans-serif;
+    text-align: justify;
 
+ }
+ div {
+align-content: center;
+ }
 .btn{
     margin: 1rem;
     font-family: 'Rambla', sans-serif;
