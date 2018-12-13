@@ -147,7 +147,7 @@ align-content: center;
     margin-color:transparent;
 }
 .btn:hover {
-    background-color: white;
+    background-color: gray;
     margin: 1rem;
     border-color:white;
 
