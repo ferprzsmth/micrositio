@@ -123,6 +123,19 @@ h3{
     padding: 1rem;
 }
 
+.btn{
+    margin: 1rem;
+    font-family: 'Rambla', sans-serif;
+    background-color: transparent;
+    color:black;
+    margin-color:transparent;
+}
+.btn:hover {
+    background-color: white;
+    margin: 1rem;
+    border-color:white;
+
+}
 
 
 
